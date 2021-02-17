@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 •Product Name<br>
 •Badge Status<br>
-•Product One Sentence Introduction<br>
+•Product One Sentence Introduction<br>I barely touch the program. However, I want to do big things gradually from small things. We hope that it will be easier to live with blockchain technology and AI.<br>
 •##Description<br>
 •***Demo***<br>
 •##Features<br>
