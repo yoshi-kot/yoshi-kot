@@ -20,4 +20,5 @@ You can click the Preview link to take a look at your changes.
 gitclone,curl,goget<br>
 •##AnythingElse<br>
 •##Author<br>
+All Friends<br>
 •##License<br>
